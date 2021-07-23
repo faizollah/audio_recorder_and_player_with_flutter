@@ -1,16 +1,9 @@
-# audio_recorder
+# An Audio Recorder and Player with Flutter
 
-A new Flutter application.
+This is a Flutter application that records audio and plays that audio.
+For detailed explanation, please refer to this video:
 
-## Getting Started
+[![An Audio Recorder and Player](http://img.youtube.com/vi/FYlEKq-TTBg/0.jpg)](http://www.youtube.com/watch?v=FYlEKq-TTBg "An Audio Recorder and Player with Flutter")
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### If this was helpful, please consider treating me a cup of coffee.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dknowledge)
